@@ -3,7 +3,7 @@ package study_java;
 public class test {
 
 	public static void main(String[] args) {
-		System.out.println("¿ì¾Æ¾Æ¾Æ¤·¤·¾Æ¾Æ¾Æ¤¿¾Æ¾Æ¾Ó¤±·¯¤Ó¤±¤¤¾î¸®¤¿¤±¤·³Ê¸®¤¿¤±");
+		System.out.println("ì•¼ì•¼ì•¼ ë‚´ë‚˜ì´ê°€ ì–´ë•Œì„œì•„ìœ¼ë¯€ì•„í•­ì•„");
 	}
 
 }
